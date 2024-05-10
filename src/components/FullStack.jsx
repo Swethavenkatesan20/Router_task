@@ -31,7 +31,7 @@ const FullStack = () => {
                   </tr>
                 </tbody>
               </table>
-              <Link to="/payment" className="btn btn-primary">Rate</Link>
+              <Link to="/payment" className="btn btn-primary">2500</Link>
             </div>
           </div>
 
